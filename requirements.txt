@@ -1,0 +1,10 @@
+nltk==3.4.5
+emoji==0.5.4
+Unidecode==1.1.1
+pandas==0.25.3
+Flask==1.1.1
+numpy==1.18.0
+opencv_contrib_python==4.1.1.26
+requests==2.22.0
+Flask_RESTful==0.3.8
+tensorflow==2.2.0
